@@ -24,7 +24,7 @@ int main() {
          else{
              net_profit = gross_sales - gross_expenses ;
              Tax = net_profit * tax_percent;
-             std::cout<<"Your Total Profit: "<<net_profit<<"\nYou have to pay Tax: "<<Tax;
+             std::cout<<"Your Total Profit: "<<net_profit<<"\nYou have to pay Tax: "<<Tax<<endl;
          }
     }
 
