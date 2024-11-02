@@ -3,7 +3,7 @@ using namespace std;
 
 int main(){
     int num_of_subject;
-    double total_points,total_credit;
+    double total_points = 0.0,total_credit = 0.0;
 
     //get input from user
     cout<<"Enter Number of Subjects : "<<endl;
