@@ -3,3 +3,5 @@ build
 user.cpp
 two.cpp
 class.cpp
+#  All .exe files
+*.exe
